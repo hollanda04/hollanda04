@@ -1,15 +1,15 @@
-# 👋 Hi there, I'm Lucas Hollanda
+# Hi there, I'm Lucas Hollanda
 
 🎓 I'm a **Computer Engineering student** and a **C++ and Python developer** focused on **Embedded Systems** and **ERP system development**.  
 🚀 Passionate about technology, performance, and bridging the gap between hardware and software.
 
 ---
 
-### ⚙️ Technologies & Tools
+### Technologies & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>  
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/platformio.svg" width="45" height="45" alt="PlatformIO"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="45" height="45" alt="Qt Creator"/>
@@ -19,14 +19,14 @@
 
 ---
 
-### 🌐 Connect with me
+### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-de-hollanda-a41294342/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eng.hollanda/)
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hollanda04&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>

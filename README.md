@@ -5,7 +5,7 @@
 
 ---
 
-### ⚙️ Technologies & Tools I use
+### ⚙️ Technologies & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>

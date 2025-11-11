@@ -28,8 +28,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-de-hollanda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-de-hollanda&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hollanda04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hollanda04&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---

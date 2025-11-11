@@ -9,7 +9,7 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/c.svg" width="45" height="45" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>  
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/platformio.svg" width="45" height="45" alt="PlatformIO"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="45" height="45" alt="Qt Creator"/>

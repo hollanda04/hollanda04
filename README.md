@@ -30,7 +30,7 @@
 ### GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hollanda04&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=hollanda04&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---

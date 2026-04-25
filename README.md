@@ -1,5 +1,3 @@
-# Hi there, I'm Lucas Hollanda
-
 🎓 I'm a **Computer Engineering student** and a **C/C++ and Python developer** focused on **Embedded Systems** and **ERP system development**.  
 🚀 Passionate about technology, performance, and bridging the gap between hardware and software.
 
@@ -29,8 +27,7 @@
 
 ### GitHub Stats
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=hollanda04&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-</p>
+  <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hollanda04&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+</div>
 
 ---

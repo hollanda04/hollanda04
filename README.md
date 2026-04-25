@@ -27,7 +27,7 @@
 
 ### GitHub Stats
 
-  <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hollanda04&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+  <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hollanda04&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9"/>
 </div>
 
 ---
